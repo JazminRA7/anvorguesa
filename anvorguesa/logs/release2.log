@@ -1,0 +1,142 @@
+commit fb0c094b5f0afb2c26948ebdc4b681ca6626ba8b
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:43:59 2020 -0400
+
+    FIXED caracteristica 6 del release 2
+
+commit d2789bb71f3ccddd16e11ea1e2a93e8649c68bc5
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:36:03 2020 -0400
+
+    caracteristica10-release2
+
+commit dd39e36a47f162b018dbf223b0b1c0b375082fd5
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:34:23 2020 -0400
+
+    caracteristica9-release2
+
+commit 7b49571dfa329fdd09f2abdc1f2ca3db0eaf171d
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:29:11 2020 -0400
+
+    caracteristica8-release2
+
+commit 92adff04d49d6b21748cb47001aec05520e61b7e
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:26:07 2020 -0400
+
+    caracteristica7-release2
+
+commit b6215395722b7220471d18519a5c92c21ef272ad
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:19:18 2020 -0400
+
+    caracteristica6-release2
+
+commit 2433320de1781ee8b1d94f5967ea280157372ccc
+Merge: 7fb00f9 c357ea6
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:07:37 2020 -0400
+
+    Merge branch 'feature5v2' into develop
+
+commit 7fb00f93ec1f1cf8e959978e226bc08219596814
+Merge: 3dfa00e 07af917
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:07:30 2020 -0400
+
+    Merge branch 'feature4v2' into develop
+
+commit 3dfa00e4462c581daf04b2f2fba6a8d303a8db4a
+Merge: 5f3eb00 156eced
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:07:16 2020 -0400
+
+    Merge branch 'feature3v2' into develop
+
+commit 5f3eb00e398c759726f34d6518cf4aa68ac0b542
+Merge: fbb9503 9cd2e40
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:07:05 2020 -0400
+
+    Merge branch 'feature2v2' into develop
+
+commit fbb95037f54e37088a9077d6b76ea7877d09558b
+Merge: d9da1fc 752e4e5
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:06:47 2020 -0400
+
+    Merge branch 'feature1v2' into develop
+
+commit c357ea639e1e30398bfa728ec65dd08b7d978cbb
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:01:47 2020 -0400
+
+    caracteristica5-release2
+
+commit 07af917892818802f4bbcfa8328763d4abec97b8
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 02:00:31 2020 -0400
+
+    caracteristica4-release2
+
+commit 156eced335b8e55d1ec93c3cc2e890674962515f
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 01:59:24 2020 -0400
+
+    caracteristica3-release2
+
+commit 9cd2e406903040a69a2cc67ef975669481c7dfe8
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 01:57:57 2020 -0400
+
+    caracteristica2-release2
+
+commit d9da1fc004d06973000148d4d50a7481b9971265
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 01:51:14 2020 -0400
+
+    FIXED caracteristica 5 release 1
+
+commit bfc0e29072b6fd5f3773366ec1b3781d6c683143
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 01:40:26 2020 -0400
+
+    registro de commits
+
+commit 752e4e512e5505ef03abaeea1e2c10032884be43
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 01:38:47 2020 -0400
+
+    caracteristica1-release2
+
+commit 552388f310d0b85b57aad0ba0a3e845656c5bd04
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 00:50:29 2020 -0400
+
+    caracteristica5-release1
+
+commit d96c6f38eb12b49d339e601afe3ae064cdb058c5
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 00:49:17 2020 -0400
+
+    caracteristica4-release1
+
+commit 3e15872f3218672d9c94ac6640838f3ecc660162
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 00:47:51 2020 -0400
+
+    caracteristica3-release1
+
+commit 5c3676c0e5bc96b210b152ea31d014c8929f8b5f
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 00:45:31 2020 -0400
+
+    caracteristica2-release1
+
+commit 80ece5a42e8c9620d7f8070991d6332b6de28a24
+Author: JazminRA7 <jazmin.ra.987@gmail.com>
+Date:   Sat May 2 00:40:12 2020 -0400
+
+    caracteristica1-release1
